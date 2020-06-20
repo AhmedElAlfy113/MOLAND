@@ -1,0 +1,74 @@
+[
+    {
+        "title" : "What is the use of <br> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to make Breakline"
+    }, 
+    {
+        "title" : "What is the use of <hr> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to make horizontal line"
+    }, 
+    {
+        "title" : "What is the use of <img> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to add image", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to add image"
+    }, 
+    {
+        "title" : "What is the use of <meta> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to add website data", 
+        "right_answer" : "to add website data"
+    }, 
+    {
+        "title" : "What is the use of <pre> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to show space", 
+        "right_answer" : "to show space"
+    }, 
+    {
+        "title" : "What is the use of <p> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to add paragraph", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to add paragraph"
+    }, 
+    {
+        "title" : "What is the use of <i> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to make text italic"
+    }, 
+    {
+        "title" : "What is the use of <b> element ?", 
+        "answer_1" : "to make horizontal line", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to make text bold"
+    }, 
+    {
+        "title" : "What is the use of <strong> element ?", 
+        "answer_1" : "to make text strong", 
+        "answer_2" : "to make text bold", 
+        "answer_3" : "to make text italic", 
+        "answer_4" : "to make Breakline", 
+        "right_answer" : "to make text strong"
+    }
+]
